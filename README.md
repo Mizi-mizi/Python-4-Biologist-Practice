@@ -6,7 +6,9 @@ Python for Biologists is an introductory bioinformatics book written by Martin J
 
 This repository is for the excercise mentioned in each chapter
 
-Any issues encountered while practicing will be recorded in this Readme File. 
+Any issues encountered while practicing will be recorded in this Readme File.
+
+All exercises completed. 
 
 ### CHAPTER 2
 
@@ -28,4 +30,4 @@ When finding accession names containing both the letter d and e in any order, th
 
 **[' eihd39d9', ' chdsye847', ' hedle3455', ' xjhd53e', ' de37dp']**
 
-However, the answer given by the text book is: **hedle3455 de37dp**, which obviouslly misses something. 
+However, the answer given by the text book is: **hedle3455 de37dp**, which is obviouslly missing something. 
